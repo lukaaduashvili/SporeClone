@@ -1,2 +1,5 @@
+from Simulation import Simulation
+
 if __name__ == "__main__":
-    print("Sport lmao")
+    simulation = Simulation()
+    simulation.begin_simulation()
