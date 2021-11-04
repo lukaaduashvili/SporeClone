@@ -1,4 +1,2 @@
-
-
-if __name__ == '__main__':
-    print("This is a spore game")
+if __name__ == "__main__":
+    print("Sport lmao")
