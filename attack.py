@@ -1,4 +1,4 @@
-from Creature import Creature
+from creature import Creature
 
 
 class Attack:
